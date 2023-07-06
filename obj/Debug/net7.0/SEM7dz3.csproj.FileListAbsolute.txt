@@ -1,0 +1,15 @@
+C:\Users\sasha\Desktop\SEM7dz3\bin\Debug\net7.0\SEM7dz3.exe
+C:\Users\sasha\Desktop\SEM7dz3\bin\Debug\net7.0\SEM7dz3.deps.json
+C:\Users\sasha\Desktop\SEM7dz3\bin\Debug\net7.0\SEM7dz3.runtimeconfig.json
+C:\Users\sasha\Desktop\SEM7dz3\bin\Debug\net7.0\SEM7dz3.dll
+C:\Users\sasha\Desktop\SEM7dz3\bin\Debug\net7.0\SEM7dz3.pdb
+C:\Users\sasha\Desktop\SEM7dz3\obj\Debug\net7.0\SEM7dz3.csproj.AssemblyReference.cache
+C:\Users\sasha\Desktop\SEM7dz3\obj\Debug\net7.0\SEM7dz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\Desktop\SEM7dz3\obj\Debug\net7.0\SEM7dz3.AssemblyInfoInputs.cache
+C:\Users\sasha\Desktop\SEM7dz3\obj\Debug\net7.0\SEM7dz3.AssemblyInfo.cs
+C:\Users\sasha\Desktop\SEM7dz3\obj\Debug\net7.0\SEM7dz3.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\SEM7dz3\obj\Debug\net7.0\SEM7dz3.dll
+C:\Users\sasha\Desktop\SEM7dz3\obj\Debug\net7.0\refint\SEM7dz3.dll
+C:\Users\sasha\Desktop\SEM7dz3\obj\Debug\net7.0\SEM7dz3.pdb
+C:\Users\sasha\Desktop\SEM7dz3\obj\Debug\net7.0\SEM7dz3.genruntimeconfig.cache
+C:\Users\sasha\Desktop\SEM7dz3\obj\Debug\net7.0\ref\SEM7dz3.dll
